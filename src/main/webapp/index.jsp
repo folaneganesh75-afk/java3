@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1> Codingwale Vaijapur</h1>
-<h3 style="color:green"> - 2.0.0 lived with the intrigration of the sonar & nexus</h3>
+<h3 style="color:green"> - 3.0.0 lived with the intrigration of the sonar & nexus</h3>
 
 
 </body>
